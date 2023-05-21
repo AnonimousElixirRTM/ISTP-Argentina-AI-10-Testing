@@ -509,7 +509,7 @@
     "country": "USA",
     "zipcode": "32801"
   },
-    {
+  {
     "id": 31,
     "firstName": "Oliver",
     "lastName": "Garcia",
@@ -695,6 +695,40 @@
     "city": "Atlanta",
     "country": "USA",
     "zipcode": "30301"
+  },
+  {
+    "id": 42,
+    "firstName": "Amelia",
+    "lastName": "Torres",
+    "age": 25,
+    "gender": "female",
+    "email": "amelia.torres@example.com",
+    "phone": "1237895550",
+    "username": "ameliat",
+    "password": "torres123",
+    "birthDate": "1996-09-08",
+    "image": "https://example.com/profile-image-amelia.jpg",
+    "address": "321 Pine St",
+    "city": "Las Vegas",
+    "country": "USA",
+    "zipcode": "89101"
+  },
+  {
+    "id": 43,
+    "firstName": "Lucas",
+    "lastName": "Rivera",
+    "age": 26,
+    "gender": "male",
+    "email": "lucas.rivera@example.com",
+    "phone": "5551237890",
+    "username": "lucasr",
+    "password": "rivera123",
+    "birthDate": "1995-08-31",
+    "image": "https://example.com/profile-image-lucas.jpg",
+    "address": "123 Oak St",
+    "city": "New Orleans",
+    "country": "USA",
+    "zipcode": "70112"
   }
   ]
   
